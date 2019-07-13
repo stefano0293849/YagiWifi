@@ -1,5 +1,5 @@
 # YagiWifi
-Yagi antenna for wifi 2.4Ghz with 10.5dB Gain, modelled in HFSS and then created the prototype.
+Yagi antenna for wifi 2.4Ghz with 10.5dB Gain, modelled in HFSS and then created the prototype. I have used a copper wire with diameter of 1mm to do the antenna ( use this material and diameter of the wire, don't change it)
 
 
 This is the HFSS Model: 
