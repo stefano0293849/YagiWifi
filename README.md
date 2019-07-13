@@ -36,5 +36,5 @@ And results with the original Alpha antenna of 5dB and with the Yagi Uda antenna
 
 ![alt text](https://github.com/stefano0293849/YagiWifi/blob/master/alpha.png)
 
-
+Remember to be precise, becouse also 1 mm can degrade the final result! 
 
